@@ -1,0 +1,3 @@
+-i http://pypi.douban.io.com/simple/
+Django~=1.11
+-e .
